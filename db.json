@@ -1,0 +1,31 @@
+{
+    "books":
+[
+    {
+    "id":1,
+    "name":"Las aventuras de Alicia en el País de las Maravillas",
+    "author":"Lewis Carroll",
+    "year":1865
+    },
+    
+    {
+    "id":2,
+    "name":"El Principito",
+    "author":"Antonie de Saint-Exupéry",
+    "year":1943
+    },
+    
+    {
+    "id":3,
+    "name":"La Cenicienta",
+    "author":"The Brothers Grimm",
+    "year":1812
+    },
+    
+    {
+    "id":4,
+    "title":"Crepúsculo",
+    "author":"Stephenie Meyer",
+    "year":1973
+    }
+]}
